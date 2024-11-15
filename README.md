@@ -16,9 +16,11 @@ Key activities on Day One:
 
 ### Day Two
 
-To be continued...
+Ain't much of a learning today. Learnt about sprites and sprite methods and handling, made the blacks respawn too.
 
----
+### Day three
+
+To be Continued...
 
 ## Things I Want to Learn
 
